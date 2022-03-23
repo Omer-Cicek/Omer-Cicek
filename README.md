@@ -6,7 +6,7 @@
   
 
 ### <div align="center">I'm Ömer, FullStack Developer 👨‍💻 </div>  
-  
+  <br/>
 
 - 🌱 I’m currently learning React-Redux and Tailwind.css  
   
