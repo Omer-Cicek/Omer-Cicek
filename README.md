@@ -78,8 +78,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
 ![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  
   
 
