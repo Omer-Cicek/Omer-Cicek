@@ -78,7 +78,7 @@
 
 <br/>  
 
-<center>![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  </center>
+<p align="center">![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  </p>
 
   
 
