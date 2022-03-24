@@ -78,7 +78,8 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  
+<center>![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  </center>
+
   
 
 <br/>  
