@@ -76,14 +76,14 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Omer-Cicek&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<!-- <br/>  
 
 <p align="center">![Profile views counter](https://komarev.com/ghpvc/?username=Omer-Cicek&&style=flat-square)  </p>
 
   
 
 <br/>  
-
+ -->
   
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
