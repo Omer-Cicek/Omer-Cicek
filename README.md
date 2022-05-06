@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React-Redux and Material UI  
   
 
-- ❓ Ask me about anything related to HTML, CSS and JavaScript.  
+- ❓ Ask me about anything related to HTML, CSS, JavaScript and React.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
