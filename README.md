@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Ömer, FullStack Web Developer 👨‍💻 </div>  
+### <div align="center">I'm Ömer, Frontend Web Developer 👨‍💻 </div>  
   <br/>
 
 - 🌱 I’m currently developing project with using Vue and Vuex.
