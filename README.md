@@ -7,7 +7,7 @@
 ### <div align="center">I'm Ömer, FullStack Web Developer 👨‍💻 </div>  
   <br/>
 
-- 🌱 I’m currently learning React-Redux and Material UI  
+- 🌱 I’m currently developing project with using Vue and Vuex.
   
 
 - ❓ Ask me about anything related to HTML, CSS, JavaScript, React and Vue.js.  
