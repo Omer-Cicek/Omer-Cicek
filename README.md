@@ -19,8 +19,10 @@
 
 <div align="center">
   <h1>🏆GitHub Trophies</h1>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-trophies.vercel.app/?username=Omer-Cicek&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  </div>
 </div>
- ![](https://github-trophies.vercel.app/?username=Omer-Cicek&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
   <a href="https://visitcount.itsvg.in/api?id=Omer-Cicek&icon=0&color=0">
