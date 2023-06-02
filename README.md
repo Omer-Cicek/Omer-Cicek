@@ -12,10 +12,12 @@
 
 <div align="center">
   <h1>📊GitHub Stats</h1>
-</div>
+<div style="display: flex; justify-content: center;">
 ![](https://github-readme-stats.vercel.app/api?username=Omer-Cicek&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omer-Cicek&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omer-Cicek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+  </div>
 
 <div align="center">
   <h1>🏆GitHub Trophies</h1>
